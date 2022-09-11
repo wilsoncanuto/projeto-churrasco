@@ -1,0 +1,29 @@
+ 
+ 
+ body{
+    background-image: url("../images/carvao.jpg");
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    color: #e9ecf1;
+    max-width: 650px;
+    margin: auto;
+    height: 450px;
+    background-image: url("../images/carnes.webp");
+    background-size: cover;
+    border-radius: 40px;
+    padding: 40px;
+}
+
+
+input {
+    display: block;
+    padding: 15px;
+    margin: auto;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border-radius: 18px;
+    
+}
